@@ -1,0 +1,2 @@
+# Housing-Market-Response-Insights-between-San-Francisco-and-Boston
+Two paired SVAR models observing the magnitude and length of responses from price and supply based on autocorrelative shocks in San Francisco and Boston. These two cities have similar populations, geography, and directly opposed rent control changes included in the model as a control/treatment dichotomy to observe if rent control affects changes..
